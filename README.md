@@ -9,5 +9,12 @@ My name is Emily, i m just a simple girl who tries to enjoy her life doing what 
 I like foxes and dogs  
 My favorite languages are C# and Javascript (NodeJS) 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP, C#, Nodejs
-
+- System Administration on mainly Linux  
+- Database Development and management  
+- Languages :
+  - Javascript/Nodejs 
+  - HTML CSS 
+  - PHP
+  - C#
+  - a few more but 
+- A jack of all trades
