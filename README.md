@@ -16,5 +16,5 @@ My favorite languages are C# and Javascript (NodeJS)
   - HTML CSS 
   - PHP
   - C#
-  - a few more but 
+  - a few more
 - A jack of all trades
